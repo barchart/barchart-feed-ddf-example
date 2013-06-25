@@ -1,0 +1,27 @@
+#
+# Copyright (C) 2011-2012 Barchart, Inc. <http://www.barchart.com/>
+#
+# All rights reserved. Licensed under the OSI BSD License.
+#
+# http://www.opensource.org/licenses/bsd-license.php
+#
+
+#
+# remove root eclipse meta data
+#
+/.project
+/.classpath
+/.settings/
+
+#
+# remove all build folders
+#
+bin/
+target/
+src/test/resources
+
+#
+# remove all release meta data
+#
+release.properties
+pom.xml.*
