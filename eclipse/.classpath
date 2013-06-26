@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/barchart-feed-ddf-assembly-4.0.2-SNAPSHOT.jar" sourcepath="lib-src/barchart-feed-ddf-assembly-4.0.2-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="lib/je-4.0.92.jar" sourcepath="lib-src/je-4.0.92-sources.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-2.2.jar" sourcepath="lib-src/joda-time-2.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/netty-3.5.12.Final.jar" sourcepath="lib-src/netty-3.5.12.Final-sources.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.5.jar" sourcepath="lib-src/slf4j-api-1.7.5-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
